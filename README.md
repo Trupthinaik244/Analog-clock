@@ -1,0 +1,1 @@
+Analog Clock is a simple web application built using HTML, CSS, and JavaScript that displays the current time in a real-time analog format.Analog Clock is a simple web application built using HTML, CSS, and JavaScript that displays the current time in a real-time analog format.
